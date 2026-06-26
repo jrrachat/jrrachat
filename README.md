@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Midtown High School class of 2029,
 
 G3 Robotices Team 1648,
