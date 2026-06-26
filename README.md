@@ -6,6 +6,4 @@ Stanford AI4ALL Natural Language Processing
 
 Georgia Student Technology Competition (GASTC) Programming Category
 
-johnrachwalski.com
-
 john.rachwalski1@gmail.com
