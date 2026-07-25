@@ -2,8 +2,8 @@ Midtown High School class of 2029
 
 G3 Robotics Team 1648
 
-Stanford AI4ALL Natural Language Processing
+Stanford AI4ALL 2026
 
-Georgia Student Technology Competition (GASTC) Programming Category
+Georgia Student Technology Competition Competitor
 
 john.rachwalski1@gmail.com
